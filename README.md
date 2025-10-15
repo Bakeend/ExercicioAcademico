@@ -45,8 +45,8 @@ Sistema desenvolvido em **TypeScript** para **gerenciamento de alunos**, **cálc
 ### 📥 Instalação
 
 ```bash
-git clone [url-do-repositorio]
-cd sistema-escolar
+git clone git@github.com:Bakeend/ExercicioAcademico.git
+cd [NomeDoArquivo]
 npm install
 ```
 
